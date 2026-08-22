@@ -1,0 +1,18 @@
+node_modules
+.next
+out
+build
+.env
+.env.local
+.DS_Store
+*.log
+
+# Local project notes
+ASSET-REPLACEMENT-GUIDE.md
+BRAND-IMPORT-NOTES.md
+CONTENT-CHECKLIST.md
+
+# Internal project notes
+ASSET-REPLACEMENT-GUIDE.md
+BRAND-IMPORT-NOTES.md
+CONTENT-CHECKLIST.md
